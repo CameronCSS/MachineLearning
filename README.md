@@ -6,8 +6,7 @@
 
   <h2 align="center">Machine Learning</h2>
   <p align="center">
-  ALL of my projects and code related to machine learning models and expirements will be available here.
-   <br> <sub><a href="https://cameroncss.com/#contact">:wavy_dash: Contact me :wavy_dash:</a></sub>
+<br> <sub><a href="https://cameroncss.com/#contact">:wavy_dash: Contact me :wavy_dash:</a></sub>
 <br>
     <br>
      <a href="https://github.com/CameronCSS/PersonalProjects/blob/main/README.md"><strong>« Back to Portfolio</strong></a>
