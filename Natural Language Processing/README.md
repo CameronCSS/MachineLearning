@@ -32,7 +32,7 @@ Natural Language Processing (NLP) is a subfield of artificial intelligence (AI) 
 - NLP is employed in speech recognition systems to convert spoken language into written text. This technology is used in voice assistants, transcription services, and other applications where spoken language needs to be processed.
 ---
 
-⏬ **Machine Learning Projects** ⏬
+⏬ **Language processing Projects** ⏬
 
 |Project|Project Links|
 |---|---|
@@ -44,9 +44,3 @@ Natural Language Processing (NLP) is a subfield of artificial intelligence (AI) 
 
 <br>
 
-### 🗄️ Database tech I've used <br>
-  * Excel (this isnt really a database. but a lot of companies use it as such)
-  * SQL (PostgreSQL, MySQL, SQL Server, Google BigQuery)
-  * Snowflake <br>
-  * Mongodb (NoSQL)
-<br>
