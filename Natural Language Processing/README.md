@@ -36,11 +36,7 @@ Natural Language Processing (NLP) is a subfield of artificial intelligence (AI) 
 
 |Project|Project Links|
 |---|---|
-|Project name | [Link]()|
-|📊 Project name | [Link]()|
-|🖥️ Project name | [Link]()|
-|📈 Project name | [Link]()|
-|🔤 Project name | [Link]()|
+|WIP | [wipLink]()|
 
 <br>
 
