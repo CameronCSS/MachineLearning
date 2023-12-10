@@ -31,6 +31,8 @@ Machine learning is applied in a wide range of domains, including image and spee
 
 ---
 
+<sub>_I am currently working on a few Projects and Tools. When they are ready I will add them here..._</sub>
+
 ⏬ **Machine Learning Projects** ⏬
 
 |Project|Project Links|
