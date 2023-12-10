@@ -35,11 +35,7 @@ Machine learning is applied in a wide range of domains, including image and spee
 
 |Project|Project Links|
 |---|---|
-|Project name | [Link]()|
-|📊 Project name | [Link]()|
-|🖥️ Project name | [Link]()|
-|📈 Project name | [Link]()|
-|🔤 Project name | [Link]()|
+|WIP | [wipLink]()|
 
 <br>
 
