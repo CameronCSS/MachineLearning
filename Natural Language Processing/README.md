@@ -32,6 +32,8 @@ Natural Language Processing (NLP) is a subfield of artificial intelligence (AI) 
 - NLP is employed in speech recognition systems to convert spoken language into written text. This technology is used in voice assistants, transcription services, and other applications where spoken language needs to be processed.
 ---
 
+<sub>_I am currently working on a few Projects and Tools. When they are ready I will add them here..._</sub>
+
 ⏬ **Language processing Projects** ⏬
 
 |Project|Project Links|
